@@ -2,7 +2,9 @@
 
 - 🎮 게임 개발자(Game Developer)
 
-- 💬 연락(Contacts): [Email](cil1216@naver.com) · [Gmail](cil07083@gmail.com)
+- 💬 연락(Contacts): 
+  - cil1216@naver.com
+  - cil07083@gmail.com
 
 ---
 
